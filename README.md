@@ -6,6 +6,17 @@ SkillsMapper connects Kenyan youth with job opportunities through a simple SMS i
 
 ![SMS Demo](https://img.shields.io/badge/SMS-Working-brightgreen) ![Node.js](https://img.shields.io/badge/Node.js-18+-blue) ![Africa's Talking](https://img.shields.io/badge/SMS-Africa's%20Talking-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 🎥 Live Demo
+
+**[► Watch SkillsMapper in Action](https://www.loom.com/share/b61915e9da7a46db9040149c11549690?sid=c4644205-780a-4743-8022-ca2c65b49550)**
+
+See the complete SMS job matching experience:
+- 📱 Interactive SMS conversation simulation  
+- 🎯 Skills assessment → AI matching → Job recommendations
+- 🇰🇪 Real opportunities from Kenyan companies
+- 📚 Free training course suggestions
+
+*3-minute demo showing actual platform functionality*
 ## 🌟 Features
 
 - **🤖 AI Job Matching**: Smart recommendations based on skills and location  
